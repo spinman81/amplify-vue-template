@@ -25,9 +25,11 @@
     "aws-cdk-lib": "^2.137.0",
     "constructs": "^10.3.0",
     "esbuild": "^0.20.2",
+    "naive-ui": "^2.43.1",
     "npm-run-all2": "^6.1.2",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5",
+    "video.js": "^8.23.4",
     "vite": "^5.4.10",
     "vue-tsc": "^2.0.11"
   }
