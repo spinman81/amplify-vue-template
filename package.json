@@ -11,7 +11,9 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "@videojs-player/vue": "^1.0.0",
     "aws-amplify": "^6.6.6",
+    "video.js": "^8.23.4",
     "vue": "^3.4.21"
   },
   "devDependencies": {
@@ -25,6 +27,7 @@
     "aws-cdk-lib": "^2.137.0",
     "constructs": "^10.3.0",
     "esbuild": "^0.20.2",
+    "naive-ui": "^2.43.1",
     "npm-run-all2": "^6.1.2",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5",
